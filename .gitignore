@@ -1,0 +1,25 @@
+## Build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+x64/
+x86/
+bld/
+[Bb]inlog/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider / IDE
+.idea/
+
+## Local secrets and environment files
+appsettings.*.local.json
+.env
